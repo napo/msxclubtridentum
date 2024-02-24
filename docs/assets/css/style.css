@@ -16,6 +16,7 @@
 body {
   font-family: "kongtext","Open Sans", sans-serif;
   color: #444444;
+  background-color: #0000e3;
 }
 
 div {
@@ -27,11 +28,12 @@ p {
   font-size: 12px;
 }
 a {
-  color:#665e53;
+  color:#000000;
 }
 
 a:hover {
-  color: #665e53;
+  color: #000000;
+
   text-decoration: underline;
 }
 
@@ -392,13 +394,13 @@ background: #665e53;
   color: black;
 }
 
-#hero h2 {
-  color: #484848;
-  margin-bottom: 50px;
-  font-size: 24px;
+#msx h2 {
+  color: #ffffff;
+  #margin-bottom: 50px;
+  #font-size: 24px;
 }
 
-#hero .btn-get-started {
+#msx .btn-get-started {
   font-family: "kongtext","Inter", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -407,16 +409,13 @@ background: #665e53;
   padding: 10px 30px;
   border-radius: 50px;
   transition: 0.5s;
-  /* rosa  color: #d89aac; */
-  color: #444444;
-  /* rosa border: 2px solid #d89aac; */
-  border: 2px solid #444444;
+  color: #000000;
+  border: 2px solid #000000;
 }
 
 #hero .btn-get-started:hover {
-/*rosa background: #d89aac;*/
-background: #665e53;
-  color: #fff;
+background: #000000;
+  color: #ffffff;
 }
 
 #hero .animated {
@@ -493,10 +492,21 @@ background: #665e53;
 section {
   padding: 60px 0;
   overflow: hidden;
+  color: #ffffff
 }
 
 .section-bg {
-  background-color: #f7fbfe;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+
+.section-bg-title h2 {
+  font-size: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+  position: relative;
+  color: #ffffff;
 }
 
 .section-title {
@@ -509,7 +519,7 @@ section {
   font-weight: bold;
   text-transform: uppercase;
   position: relative;
-  color: #222222;
+  color: #000000;
 }
 
 .section-title h2::before, .section-title h2::after {
