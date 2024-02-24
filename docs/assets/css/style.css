@@ -8,8 +8,11 @@
 @font-face {
   font-family: "kongtext";
   src: url('../vendor/fonts/kongtext/font.ttf') format('truetype');
+}
+
+@font-face {
   font-family: "rikos";
-  src: url('../vendor/fonts/rikos/font.ttf') format('truetype')!
+  src: url('../vendor/fonts/rikos/font.ttf') format('truetype')
 }
 
 /*--------------------------------------------------------------
@@ -392,9 +395,10 @@ background: #665e53;
 }
 
 #msx h2 {
+  font-family: "rikos";
   color: #ffffff;
-  #margin-bottom: 50px;
-  #font-size: 24px;
+  margin-bottom: 50px;
+  font-size: 50px;
 }
 
 #msx .btn-get-started {
@@ -1396,13 +1400,13 @@ background: #665e53;
 }
 
 .contact .info {
-  color: #444444;
+  color: #000000;
 }
 
 .contact .info i {
   font-size: 32px;
   /*rosa color: #d89aac;*/
-color: #444444;
+color: #000000;
   float: left;
   line-height: 1;
 }
