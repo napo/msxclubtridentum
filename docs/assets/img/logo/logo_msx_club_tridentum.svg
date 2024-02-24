@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="179.71588"
+   height="90"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="logo_msx_club_tridentum.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 404.18108 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 404.18108 : 1"
+       inkscape:persp3d-origin="372.04724 : 228.78738 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2824"
+       inkscape:persp3d-origin="0.5 : -121.66668 : 1"
+       inkscape:vp_z="1 : -121.50001 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : -121.50001 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="69.5"
+     inkscape:cy="123"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="981"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(3.3066177,-830.9563)">
+    <rect
+       style="fill:#00000f;fill-opacity:0.941176;stroke:none;stroke-width:0.38601"
+       id="rect3604"
+       width="179.71588"
+       height="90"
+       x="-3.3066177"
+       y="830.9563" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.2235135,892.58929 15.994418,834.4457 H 29.69107 l 7.116879,25.379 7.385442,-25.379 H 57.08435 l 12.085294,42.83551 29.486062,-0.0561 c 3.095294,-0.0312 3.285214,-6.43078 -0.229196,-6.42916 l -17.171605,-0.2292 c -7.373857,0.0723 -15.149526,-7.90596 -14.770897,-18.53072 0.07879,-9.74532 8.576639,-17.41988 19.447713,-17.41727 l 43.798559,-0.0393 11.14528,15.17378 10.87694,-15.30788 18.1278,0.13398 -19.87353,27.93055 21.48495,30.28488 -18.03297,-0.0555 -12.50445,-17.37793 -11.89538,17.37793 -18.3965,-0.018 20.9479,-29.94452 -9.13115,-13.29397 -38.073424,0.0555 c -4.155153,0.0391 -4.0028,6.57482 0.03243,6.45227 l 16.041984,0.2454 c 6.77971,0.0449 16.32801,7.08941 16.09057,18.08876 0.10391,12.78748 -11.41376,18.62911 -16.958666,18.31774 l -41.990739,0.0561 -6.982599,-26.16178 -6.982619,26.10629 H 30.401764 l -7.290515,-25.97124 -6.406148,26.01108 z"
+       id="path2830"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.2226px;font-family:Kongtext;-inkscape-font-specification:Kongtext;fill:#ffffff;stroke:#484848;stroke-width:0.510166"
+       x="3.2981791"
+       y="914.75244"
+       id="text900"><tspan
+         sodipodi:role="line"
+         id="tspan898"
+         x="3.2981791"
+         y="914.75244"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Rikos;-inkscape-font-specification:Rikos;fill:#ffffff;stroke-width:0.510166">CLUB TRIDENTUM</tspan></text>
+  </g>
+</svg>

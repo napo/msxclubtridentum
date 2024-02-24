@@ -7,7 +7,9 @@
 
 @font-face {
   font-family: "kongtext";
-  src: url('../vendor/fonts/kongtext/kongtext.ttf') format('truetype'),
+  src: url('../vendor/fonts/kongtext/font.ttf') format('truetype');
+  font-family: "rikos";
+  src: url('../vendor/fonts/rikos/font.ttf') format('truetype')!
 }
 
 /*--------------------------------------------------------------
@@ -15,7 +17,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "kongtext","Open Sans", sans-serif;
-  color: #444444;
+  color: #000000;
   background-color: #0000e3;
 }
 
@@ -60,14 +62,13 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 4px;
-/*rosa background: #d89aac;*/
-background: #665e53;
+  background: #000000;
   color: #fff;
   transition: all 0.4s;
 }
 
 .back-to-top i:hover {
-  background: #665e53; /* 57aae1; */
+  background: #000000;
   color: #fff;
 }
 
@@ -105,7 +106,7 @@ background: #665e53;
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
-  color: #222222;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -143,8 +144,7 @@ background: #665e53;
 .nav-menu a {
   display: block;
   position: relative;
-  /*color: #555555;*/
-  color: #665e53;
+  color: #000000;
   padding: 8px 0 12px 25px;
   transition: 0.3s;
   font-size: 14px;
@@ -152,15 +152,12 @@ background: #665e53;
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  /*color: #d89aac;*/
-  /*color: #d89aac;*/
   text-decoration: underline;
   font-weight: normal;
 }
 
 .nav-menu .get-started a {
-/*rosa background: #d89aac;*/
-background: #665e53;
+  background: #000000;
   color: #fff;
   border-radius: 50px;
   margin: 0 0 0 30px;
