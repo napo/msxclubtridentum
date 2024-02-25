@@ -38,12 +38,20 @@ a {
 
 a:hover {
   color: #000000;
-
   text-decoration: underline;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "kongtext","Inter", sans-serif;
+}
+
+#storia a {
+  color:#ffffff;
+}
+
+#storia a:hover {
+  color: #ffffff;
+  text-decoration: underline;
 }
 
 /*--------------------------------------------------------------
@@ -398,7 +406,7 @@ background: #665e53;
   font-family: "rikos";
   color: #ffffff;
   margin-bottom: 50px;
-  font-size: 50px;
+  font-size: 5%;
 }
 
 #msx .btn-get-started {
@@ -1587,4 +1595,9 @@ color: #000000;
 #footer .footer-links a:hover {
   /*rosa color: #d89aac;*/
 color: #444444;
+}
+
+.nes-btn.is-primary {
+  color: #fff;
+  background-color: #0000e3;
 }
