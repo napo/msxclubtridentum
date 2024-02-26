@@ -406,7 +406,7 @@ background: #665e53;
   font-family: "rikos";
   color: #ffffff;
   margin-bottom: 50px;
-  font-size: 5%;
+  font-size: 3em;
 }
 
 #msx .btn-get-started {
@@ -957,7 +957,7 @@ background: #665e53;
 
 .testimonials .testimonial-item h4 {
   font-size: 14px;
-  color: #999;
+  color: #000000;
   margin: 0;
 }
 
