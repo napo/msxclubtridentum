@@ -15,6 +15,11 @@
   src: url('../vendor/fonts/rikos/font.ttf') format('truetype')
 }
 
+@font-face {
+  font-family: "quicktype";
+  src: url('../vendor/fonts/quicktypecondensed/font.ttf') format('truetype')
+}
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -25,11 +30,11 @@ body {
 }
 
 div {
-  font-family: "kongtext";
+  font-family: "quicktype";
 }
 
 p {
-  font-family: "kongtext";
+  font-family: "quicktype";
   font-size: 12px;
 }
 a {
@@ -43,6 +48,11 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "kongtext","Inter", sans-serif;
+}
+
+div {
+  font-family: "quicktype","Courier";
+  font-size: 13px;
 }
 
 #storia a {
